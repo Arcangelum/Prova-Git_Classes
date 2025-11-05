@@ -4,7 +4,7 @@
     {
         public void Saludar()
         {
-            Console.WriteLine("Bon dia!");
+            Console.WriteLine("Bon dia!!!! Avui fa un precios dia!!");
         }
     }
 }

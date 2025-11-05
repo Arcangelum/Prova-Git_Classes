@@ -4,7 +4,7 @@
     {
         public void Saludar()
         {
-            Console.WriteLine("Bona nit!!!!!! ");
+            Console.WriteLine("Bona nit!!!!!! Que somiis molt! ");
         }
     }
 }
